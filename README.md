@@ -3,7 +3,8 @@ Language: C#
 
 Database: My SQL
 
-(Source code for interface and Database can be found in .pdf)
+(Source code for interface and Database can be found in Source code and Snapshots_Gym Management System.pdf)
+(to be downloaded to view)
 
 Database Schema and ER diagram can be found below
 
