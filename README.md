@@ -4,6 +4,7 @@ Language: C#
 Database: My SQL
 
 (Source code for interface and Database can be found in .pdf)
+Database Schema and ER diagram can be found below
 
 The software to be produced is on Gymnasium Management System. Here there are two users. They are the gym administrators (which also include the managers) and the members (which also include the trainers). 
 The administrators manage all the various parts of the gym. They can:
